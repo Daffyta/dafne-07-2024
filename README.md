@@ -103,4 +103,5 @@ Esto debería levantar tu aplicación en el puerto http://localhost:5173
 - Asegúrate de tener Node.js y npm instalados en tu máquina.
 - El proyecto usa axios para las solicitudes HTTP a la PokeAPI.
 - Las estadísticas del Pokémon se muestran usando vue-chartjs y chart.js.
+- Esta prueba se realizo utilizando la api: https://pokeapi.co/docs/v2
 
